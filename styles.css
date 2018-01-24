@@ -5,8 +5,17 @@ body{
 h1{
     text-align: center;
     font-size: 55px;
+    color: lightblue;
+
 }
 
+        @media screen and (max-width: 768){
+        h1{color: red;
+            font-weight: bold;
+            text-decoration: underline;}
+
+            
+        }
 /* Macete para alinhar uma imagem no centro */
 .banner{
     width: 50%;

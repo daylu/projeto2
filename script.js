@@ -7,4 +7,5 @@ function mudarTitulo() {
 
 function mudarTexto() {
   texto.style.color = 'red';
+  Text.style.backgroundcolor = 'blue';
 }
